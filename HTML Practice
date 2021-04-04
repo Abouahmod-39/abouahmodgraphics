@@ -1,0 +1,38 @@
+<html>
+   <head>
+        <title>abouahmodgraphics.com</title>
+   </head>
+   <body style= "background-color:e2d810;">
+         <style>img{border-radius: 50%;}</style>
+         <h1 align=center>WELCOME TO MY GREAT WEBSITE!!!</h1>
+            <p align=center>Your Brand is your Business face in the Sight of Your Customers, So is Better you Take care of Your Brand</p><br>
+            <img src=ibrahim.jpg height=150 width=150 align=left>
+      
+            <br><br><br><br><br><br><br><br>
+   <h3 align=left>Ibrahim Babatunde</h3>
+   <p> I am a Graphics Designer with so much experience in Logo, Flyer <br>
+   Business card, Book cover, Poster, and Social media ads Designs.<br> Am also a well experience website Designer having a great creativity<br> to bring your imagination into reality. Test me today with your designs<br> and see how amazing it can be promoting your businesses with professional</p>
+         <br><br><br>
+         <h3 align=center>WORKDONE IN THE PAST</h3>
+         <img src=classicbuss.jpg height=150 width=150 align=center>
+         <img src=classicville.jpg height=150 width=150 align=center>
+         <img src=composocia.jpg height=150 width=150 align=center>
+         <img src=mustyinstagram.jpg height=150 width=150 align=center>
+         <img src=mustyshirt.jpg height=150 width=150 align=center>
+         <img src=amagrocard.jpg height=150 width=150 align=center>
+         <img src=MUSTYROLLUP.jpg height=150 width=150 align=center>
+         <img src=bolakitch.jpg height=150 width=150 align=center>
+         <br><br><br>
+         <h5 align=left>CONTACT ME VIA</h5>
+         <p><img src=twitter.png height=30 width=30 align=left>      @abouahmod</p>
+         <p><img src=watsup.png height=30 width=30 align=left>      08130746876</p>
+         <p><img src=facebook.png height=30 width=30 align=left>      Muftau39</p>
+         <p align=center>Fill the following</p>
+         <p align=center><label for=fname>firstname:</label><input type=text id=fname name=fname></p>
+         <p align=center><label for=sname>surname:</label><input type=text id=sname name=sname></p> 
+         <p align=center><label for=uname>username:</label><input type=text id=uname name=uname></p>
+         <p align=center><label for=password>password:</label><input type=text id=password name=password></p>
+         <p align=center>gender<input type=radio id=male name=gender value=male><label for=male>male</label><input type=radio id=female name=gender value=female><label for=female>female</label></p></p>
+         <p align=center><input type=submit value=submit>
+   </body>
+</html>
